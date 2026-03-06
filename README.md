@@ -24,7 +24,8 @@ The proposed Noisy Label Calibration (NLC) method includes:<br>
   &nbsp;&nbsp;3.Label Calibration Learning (LCL) – corrects noisy labels based on neighbor consensus.<br>
   &nbsp;&nbsp;4.Multi-view classification – uses cross-entropy loss with a penalty term to avoid overconfidence.<br>
 ![image](https://github.com/sstaree/NLC/blob/c7cb1299bf996c19cd716a8654ecb95984efbd8c/image/framework.jpg)
-
+### Results
+![image](https://github.com/sstaree/NLC/blob/a3a061c86e1483c3ccc9f3785be794f36cad32ca/image/result.png)
 ### Dataset
 • All dataset can be downloaded at: <br>
 https://pan.baidu.com/s/1uLPfx5lMMqMdYtFUav7jcQ?pwd=6666 <br>
